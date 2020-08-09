@@ -1,2 +1,2 @@
 # Notebook
-try
+This is the notebook for personal leanrning. 
